@@ -8,6 +8,11 @@
 <p align="center"><a href="https://github.com/tonikelope/megabasterd/releases/latest" target="_blank"><img src="https://raw.githubusercontent.com/tonikelope/megabasterd/master/src/main/resources/images/linux-mac-windows.png"></a></p>
 <p align="center"><a href="https://github.com/tonikelope/megabasterd/issues/397"><b>Would you like to help by translating MegaBasterd into your favorite language?</b></a></p>
 
+# Description
+
+This forked project from MegaBasterd is a CLI version (with GUI. It doesn't work headless). It auto closes once all
+downloads are finished.
+
 # How to use?
 
 ```Shell
