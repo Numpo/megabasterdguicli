@@ -465,7 +465,7 @@ public class FolderLinkDialog extends javax.swing.JDialog {
 //            }
 
             // Force not use cache version
-            final int r = 1;
+            final int r = -1;
 
             if (r == 0) {
                 MiscTools.GUIRun(() -> {
